@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Himanshu12328/Himanshu12328/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Himanshu12328/Himanshu12328/output/github-contribution-grid-snake.svg" />
 
 ###
 
