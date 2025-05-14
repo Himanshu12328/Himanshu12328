@@ -1,100 +1,71 @@
-<!--
-**Himanshu12328/Himanshu12328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Hi 👋! I'm Himanshu Gautam — Robotics & AI Engineer</h2>
 
-Here are some ideas to get you started:
+<p align="left">
+I’m passionate about building intelligent, perception-driven robotic systems that interact seamlessly with the real world. My expertise spans across <b>SLAM, Sensor Fusion, Perception, Embedded Systems, and Deep Learning</b>. From deploying AR/VR calibration systems at Meta to building autonomous human-following robots from scratch, I thrive at the intersection of hardware and software integration.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align="left">Hi 👋! My name is Himanshu Gautam, a Roboticist</h2>
+---
 
-###
+### 🚀 Current Focus
+- 🛠️ Developing AR/VR prototype calibration systems at **Meta Reality Labs**.
+- 🤖 Exploring underwater and aerial autonomy with advanced SLAM and sensor fusion techniques.
+- 📚 Currently diving deeper into **OctoMap** and **LiDAR integration** for spatial understanding.
+- 🌍 Seeking opportunities to contribute to autonomous navigation and perception challenges in real-world environments.
 
+---
+
+### 🧩 Technical Toolbox
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ROS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="Unreal Engine" />
 </div>
 
-###
+---
 
+### 📂 Featured Projects  
+- 🚶‍♂️ [**Human Following Robot**](https://github.com/Himanshu12328/Human_following_robot): Built perception and navigation stack using YOLOv7, SuperPoint, and PID control integrated with ROS.  
+- 📸 [**Lip Movement Detection Under Face Mask**](https://github.com/Himanshu12328/Lip_detection_under_surgical_mask): Real-time system achieving 93% accuracy using OpenCV and TensorFlow.  
+- 🚗 [**Car Image Segmentation with U-Net**](https://github.com/Himanshu12328/ImageSeg_U-net): Achieved 99.7% accuracy with a custom U-Net model.  
+- 🦾 [**Robotic Grasping with Deep Q-Learning**](https://github.com/Himanshu12328/Reinforcement_learning_mini_projects): Reduced grasping error by 28% using continuous visual feedback in PyBullet simulations.  
+- 📡 [**Electromagnetic Signal-Based Distance Prediction**](https://github.com/Himanshu12328/Machine_Learning_mini_projects): Achieved 99% R² score using a custom neural network.
+
+---
+
+### 📫 Let's Connect  
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  <a href="https://www.linkedin.com/in/hgautam12328" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:hgautam2048@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
 
-###
-
-<img align="right" height="200" src="https://www.linkpicture.com/q/Snapchat-932062046-1.jpg"  />
-
-###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Himanshu12328&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu12328&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Himanshu12328&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu12328&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
 
-###
+---
 
-<br clear="both">
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Himanshu12328/Himanshu12328/output/github-contribution-grid-snake.svg" />
+</p>
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Himanshu12328/Himanshu12328/output/github-contribution-grid-snake.svg" />
-
-###
-
-<p align="left">Hello there! I'm Himanshu Gautam, and I'm passionate about the fascinating fields of SLAM (Simultaneous Localization and Mapping), Perception, and Deep Learning. My GitHub repository is a reflection of my unwavering commitment to these areas of robotics and artificial intelligence.<br><br>In my journey as a robotics enthusiast, I have delved deep into the world of SLAM. I believe that SLAM is the backbone of autonomous navigation, and my GitHub showcases projects, code snippets, and resources related to SLAM algorithms, both classic and state-of-the-art. From visual SLAM using OpenCV to 3D mapping with point clouds, I'm constantly exploring and experimenting with various SLAM techniques.<br><br>Perception is the gateway to understanding the world for robots, and my GitHub portfolio reflects my passion for creating intelligent perception systems. I've implemented cutting-edge computer vision algorithms, such as YOLOv7 and Mask-RCNN, to enable real-time object detection, instance segmentation, and feature tracking. Whether it's tracking lip movements under face masks or developing robust point cloud processing algorithms, I'm dedicated to advancing the field of perception.<br><br>Deep learning is at the heart of modern robotics, and I'm deeply invested in leveraging the power of neural networks to solve complex problems. My GitHub hosts projects that span the spectrum of deep learning applications, from image segmentation using custom U-Net architectures to shark species classification for underwater robots. I'm a firm believer in harnessing the capabilities of frameworks like PyTorch, TensorFlow, and Keras to push the boundaries of what robots can perceive and understand.<br><br>My GitHub repository is not just a collection of code but a testament to my passion for pushing the boundaries of robotics through SLAM, perception, and deep learning. I invite you to explore my projects, collaborate, and join me on this exciting journey of innovation in the world of robotics and artificial intelligence. Let's make robots see, understand, and navigate the world better together!</p>
-
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Himanshu12328/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Himanshu12328/count.svg?" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
