@@ -7,6 +7,16 @@
   <img src="https://www.linkpicture.com/q/Snapchat-932062046-1.jpg" height="200" style="border-radius: 50%;" alt="Himanshu Gautam"/>
 </p>
 
+## 💡 About Me  
+
+I’m a curious mind fueled by a relentless passion for innovation, robotics, and artificial intelligence. From building perception-driven robots to designing complex AR/VR calibration systems at Meta, I thrive at the cutting edge of technology where software meets hardware.  
+
+My journey began with a fascination for how machines perceive the world and evolved into a mission to empower robots with human-like perception and intelligence. I believe in creating systems that not only interact seamlessly with their environments but also make a meaningful difference—whether it's enhancing human-robot collaboration, securing critical infrastructure, or enabling the next generation of AR/VR experiences.  
+
+When I’m not pushing the limits of robotics and AI, you’ll find me exploring underwater autonomy concepts, experimenting with advanced SLAM techniques, or sketching ideas for my next big project. I’m always excited to collaborate with like-minded innovators who share my belief that technology should solve real-world problems at scale.
+
+🚀 Let’s build the future—one intelligent system at a time!
+
 ---
 
 ## 🛠️ What I Do  
